@@ -49,9 +49,17 @@ body {
     height: 75px;
 }
 
+#nav img:hover {
+    height: 70px;
+}
+
 #nav h4 {
     text-transform: uppercase;
     font-weight: 500px;
+}
+
+#nav h4:hover {
+    cursor: pointer;
 }
 
 video {
